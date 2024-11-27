@@ -33,10 +33,12 @@ position()	--	Returns the current position.
 
 goto()	--	Move the turtle to position x,y. 
 
-begin_fill()	--	Remember the starting point for a filled polygon.
-end_fill()	--	Close the polygon and fill with the current fill color
-dot()	--	Leave the dot at the current position
-stamp()	--	Leaves an impression of a turtle shape at the current location
+begin_fill()	--	Remember the starting point for a filled polygon.  
 
+end_fill()	--	Close the polygon and fill with the current fill color.  
 
-shape()	shapename	Should be ‘arrow’, ‘classic’, ‘turtle’ or ‘circle’
+dot()	--	Leave the dot at the current position.  
+
+stamp()	--	Leaves an impression of a turtle shape at the current location.  
+
+shape()	shapename	Should be ‘arrow’, ‘classic’, ‘turtle’ or ‘circle’.
